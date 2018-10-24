@@ -4,7 +4,7 @@
     "private": true,
 
     "dependencies": {
-        "express"           : "4.13.1",
+        "express"           : "4.15.5",
         "express-handlebars": "2.0.1",
         "lru-cache"         : "2.6.5",
         "mime-db"           : "1.15.0",
